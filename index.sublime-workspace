@@ -1,0 +1,845 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"cente",
+				"center-block \tBootstrap 3 Class"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"hie",
+				"height\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"out",
+				"outline\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"tras",
+				"translate()"
+			],
+			[
+				"bot",
+				"bottom\tproperty"
+			],
+			[
+				"backcl",
+				"background-color\tproperty"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"texd",
+				"text-decoration\tproperty"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"bloc",
+				"center-block \tBootstrap 3 Class"
+			],
+			[
+				"ta",
+				"table-cell\tdisplay"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"contai",
+				"container \tBootstrap 3 Class"
+			],
+			[
+				"log",
+				"log\tlog"
+			],
+			[
+				"gete",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"tab",
+				"tab-content"
+			],
+			[
+				"que",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"cn",
+				"center-block \tBootstrap 3 Class"
+			],
+			[
+				"for",
+				"for\tfor"
+			],
+			[
+				"btn",
+				"btn-primary \tBootstrap 3 Class"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"f",
+				"fantasy\tfont-family"
+			],
+			[
+				"lef",
+				"left\tproperty"
+			],
+			[
+				"an",
+				"animation\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"con",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"conta",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"cont",
+				"container \tBootstrap 3 Class"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"boder",
+				"border\tproperty"
+			],
+			[
+				"container",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"img",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"cas",
+				"className"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"nam",
+				"nameNe"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"on",
+				"outline\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"shaw",
+				"box-shadow\tproperty"
+			],
+			[
+				"get",
+				"getElementsByClassName\tmethod"
+			],
+			[
+				"paris",
+				"paris"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"inline",
+				"form-inline \tBootstrap 3 Class"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"im",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"co",
+				"component\tproperty"
+			],
+			[
+				"cons",
+				"const\tkeyword"
+			],
+			[
+				"ev",
+				"event\tparameter"
+			],
+			[
+				"find",
+				"findIndex\tmethod"
+			],
+			[
+				"btn-",
+				"btn-primary \tBootstrap 3 Class"
+			],
+			[
+				"bt",
+				"btn-link \tBootstrap 3 Class"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"ng",
+				"ngModel\tAngular 2 ngModel Snippet"
+			],
+			[
+				"impor",
+				"import\tkeyword"
+			],
+			[
+				"inlie",
+				"form-inline \tBootstrap 3 Class"
+			],
+			[
+				"cli",
+				"click\t.click()"
+			],
+			[
+				"slide",
+				"slideDown\t.slideDown()"
+			],
+			[
+				"sl",
+				"slideDown\t.slideDown()"
+			],
+			[
+				"show",
+				"showne"
+			],
+			[
+				"mr",
+				"margin-right\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"$s",
+				"$scope\tAngularJS(DI)"
+			],
+			[
+				"click",
+				"clickDay"
+			],
+			[
+				"clic",
+				"clickDay"
+			],
+			[
+				"ng-s",
+				"ng-show\tAngularJS"
+			],
+			[
+				"sele",
+				"selectTEAM"
+			],
+			[
+				"NG-OP",
+				"ng-options\tAngularJS"
+			],
+			[
+				"ng-op",
+				"ng-options\tAngularJS"
+			],
+			[
+				"order",
+				"orderByMe('name"
+			],
+			[
+				"my",
+				"myOrderBy"
+			],
+			[
+				"ng-re",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"qua",
+				"quantity"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"ng-r",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"$sc",
+				"$scope\tAngularJS"
+			],
+			[
+				"module",
+				"verbose_module\tAngularJS"
+			],
+			[
+				"firs",
+				"firstTime"
+			],
+			[
+				"$cop",
+				"$scope\tAngularJS"
+			],
+			[
+				"getElementBycl",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"modul",
+				"verbose_module\tAngularJS"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"set",
+				"setInterval\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"getElementByclas",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"st",
+				"style\t Style CSS"
+			],
+			[
+				"docu",
+				"document\t: Document Window"
+			],
+			[
+				"tr",
+				"transform\t = 'translateY(y)' Style CSS"
+			],
+			[
+				"transi",
+				"transitionDuration\t = 'initial' Style CSS"
+			],
+			[
+				"transf",
+				"transform\t = 'translate3d(x,y,z)' Style CSS"
+			],
+			[
+				"read",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"rgi",
+				"right\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"padi",
+				"padding\tproperty"
+			],
+			[
+				"rea",
+				"ready\t$(document).ready"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"ove",
+				"overflow\tproperty"
+			],
+			[
+				"r",
+				"rotate()\ttransform"
+			],
+			[
+				"trn",
+				"transform\tproperty"
+			],
+			[
+				"pt",
+				"padding-top\tproperty"
+			],
+			[
+				"cir",
+				"img-circle \tBootstrap 3 Class"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"zi",
+				"z-index\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"html ",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/longt/Desktop/ngố nghiêm túc nè/1.html",
+		"/C/Users/longt/first angular app/node_modules/async-limiter/coverage/lcov-report/index.html",
+		"/C/Users/longt/first angular app/node_modules/@angular/common/bundles/common.umd.js",
+		"/C/Users/longt/first angular app/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy/common.js.html",
+		"/C/Users/longt/first angular app/node_modules/@angular/compiler-cli/src/diagnostics/expression_diagnostics.js",
+		"/C/Users/longt/Desktop/sinh nhat/index.html",
+		"/C/Users/longt/Desktop/sinh nhat/1.css",
+		"/C/Users/longt/Desktop/cắt layout/style.css",
+		"/C/Users/longt/Desktop/cắt layout/1.html",
+		"/C/Users/longt/Desktop/cắt layout/style.scss",
+		"/C/Users/longt/Desktop/cắt layout/1.css",
+		"/C/Users/longt/Desktop/sass/style.scss",
+		"/C/Users/longt/Desktop/sass/style.css",
+		"/C/Users/longt/Desktop/Thư mục mới (3)/1.html",
+		"/C/Users/longt/Desktop/Thư mục mới (3)/style.scss",
+		"/C/Users/longt/Desktop/w3showto/tab/css/style.scss",
+		"/C/Users/longt/Desktop/Thư mục mới (3)/index.html.txt",
+		"/C/Users/longt/Desktop/w3showto/tab/1.html",
+		"/C/Users/longt/Desktop/w3showto/tab/style.scss",
+		"/C/Users/longt/Desktop/w3showto/tab/css/1.scss.txt",
+		"/C/Users/longt/Desktop/w3showto/tab/1.scss",
+		"/C/Users/longt/Desktop/w3showto/tab/css/1.css",
+		"/C/Users/longt/Desktop/How to w3s/style.scss",
+		"/C/Users/longt/Desktop/w3showto/tab/css/1.min.css",
+		"/C/Users/longt/Desktop/w3showto/tab/1.css",
+		"/C/Users/longt/Desktop/chanvlz/index.html",
+		"/C/Users/longt/Desktop/birthday/index.html",
+		"/C/Users/longt/Desktop/thday2/1.css",
+		"/C/Users/longt/Desktop/birthday/1.css",
+		"/C/Users/longt/Desktop/w3showto/pop up/1.css",
+		"/C/Users/longt/Desktop/w3showto/Thư mục mới/1.html",
+		"/C/Users/longt/Desktop/w3showto/pop up/1.html",
+		"/C/Users/longt/Desktop/w3showto/Thư mục mới/1.css",
+		"/C/Users/longt/Desktop/birthday/1.js",
+		"/C/Users/longt/Desktop/birthday/1.html",
+		"/C/Users/longt/Desktop/detail/mega nav/1.css",
+		"/C/Users/longt/Desktop/detail/mega nav/1.html",
+		"/C/Users/longt/Desktop/Thư mục mới (2)/Giao diện giới thiệu khách soạn/index.html",
+		"/C/Users/longt/Desktop/Thư mục mới (2)/Giao diện giới thiệu khách soạn/css/style.css",
+		"/C/Users/longt/Desktop/How to w3s/tab bs3/1.html",
+		"/C/Users/longt/Desktop/How to w3s/tab bs3/1.css",
+		"/C/Users/longt/Desktop/How to w3s/page tab/1.html",
+		"/C/Users/longt/Desktop/How to w3s/page tab/1.css",
+		"/C/Users/longt/Desktop/How to w3s/1.css",
+		"/C/Users/longt/Desktop/How to w3s/1.html",
+		"/C/Users/longt/Desktop/How to w3s/html.html",
+		"/C/Users/longt/Desktop/foody wedsite/1.html",
+		"/C/Users/longt/Desktop/foody wedsite/1.css",
+		"/C/Users/longt/Desktop/foody wedsite/1.js",
+		"/C/Users/longt/first angular app/src/app/app.component.html",
+		"/C/Users/longt/first angular app/src/app/components/about/about.component.html",
+		"/C/Users/longt/first angular app/src/index.html",
+		"/C/Users/longt/first angular app/src/app/app.module.ts",
+		"/C/Users/longt/first angular app/src/app/app-routing.module.ts",
+		"/C/Users/longt/first angular app/src/app/app.component.css",
+		"/C/Users/longt/first angular app/src/app/components/helloworld/helloworld.component.html",
+		"/C/Users/longt/first angular app/src/app/app.component.ts",
+		"/C/Users/longt/first angular app/src/app/components/helloworld/helloworld.component.ts",
+		"/C/Users/longt/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/longt/first angular app/src/app/components/helloworld/helloworld.component.css",
+		"/C/Users/longt/Desktop/test.html",
+		"/C/Users/longt/Desktop/2/index.html",
+		"/C/Users/longt/first angular app/src/app/word.compoment.ts.txt",
+		"/C/Users/longt/Desktop/ang/1.html",
+		"/C/Users/longt/Desktop/shit/1.html",
+		"/C/Users/longt/Desktop/1/1.html",
+		"/C/Users/longt/Desktop/1/1.css",
+		"/C/Users/longt/Desktop/Thư mục mới/1.js",
+		"/C/Users/longt/Desktop/Thư mục mới/1.css",
+		"/C/Users/longt/Desktop/Thư mục mới/1.html",
+		"/C/Users/longt/Desktop/angulajs/1.css",
+		"/C/Users/longt/Desktop/angulajs/1.html",
+		"/C/Users/longt/Desktop/angulajs/jsa.js",
+		"/C/Users/longt/Desktop/angulajs/1.js",
+		"/C/Users/longt/Desktop/javascript tutorial/slide ne/1.js",
+		"/C/Users/longt/Desktop/javascript tutorial/slide ne/1.css",
+		"/C/Users/longt/Desktop/javascript tutorial/slide ne/1.html",
+		"/C/Users/longt/Desktop/javascript tutorial/bongbongbay/1.html",
+		"/C/Users/longt/Desktop/javascript tutorial/bongbongbay/1.js",
+		"/C/Users/longt/Desktop/javascript tutorial/bongbongbay/1.css",
+		"/C/Users/longt/Desktop/test magic scroll/1.css",
+		"/C/Users/longt/Desktop/test magic scroll/1.html",
+		"/C/Users/longt/Desktop/test magic scroll/1.js",
+		"/C/Users/longt/Desktop/Thư mục mới/index.html",
+		"/C/Users/longt/Desktop/all my evo of knowle/chap 2/1.js",
+		"/C/Users/longt/Desktop/all my evo of knowle/chap 2/1.html",
+		"/C/Users/longt/Desktop/all my evo of knowle/chap 2/1.css",
+		"/C/Users/longt/Desktop/all my evo of knowle/chap 2/jquery.counterup.js",
+		"/C/Users/longt/Desktop/bazan/1.css",
+		"/C/Users/longt/Desktop/bazan/1.html",
+		"/C/Users/longt/Desktop/Thư mục mới (2)/1.js",
+		"/C/Users/longt/Desktop/hello word/index.html",
+		"/C/Users/longt/Desktop/Thư mục mới (2)/1.html",
+		"/C/Users/longt/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/longt/Desktop/ngố 2/1.html",
+		"/C/Users/longt/Desktop/ngố 2/1.css",
+		"/C/Users/longt/Desktop/ngố 2/1.js",
+		"/C/Users/longt/Desktop/grid/1.html",
+		"/C/Users/longt/Desktop/grid/1.js",
+		"/C/Users/longt/Desktop/grid/1.css",
+		"/C/Users/longt/Desktop/ngố/1.js",
+		"/C/Users/longt/Desktop/ngố/1.css",
+		"/C/Users/longt/Desktop/ngố/1.html",
+		"/C/Users/longt/Desktop/jquery effect/chạy hình ảnh img/1.js",
+		"/C/Users/longt/Desktop/jquery effect/chạy hình ảnh img/1.html",
+		"/C/Users/longt/Desktop/jquery effect/chạy chữ typed/1.html",
+		"/C/Users/longt/Desktop/jquery effect/chạy chữ typed/1.js",
+		"/C/Users/longt/Desktop/Thư mục mới/Mouse-aware-Element-Scroller-Plugin-jQuery-Infinite-Scroller/index.html",
+		"/C/Users/longt/Desktop/jquery effect/chạy chữ typed/1.css",
+		"/C/Users/longt/Desktop/jquery effect/chạy hình ảnh img/1.css",
+		"/C/Users/longt/Desktop/jquery effect/text slide/1.js",
+		"/C/Users/longt/Desktop/jquery effect/text slide/1.html",
+		"/C/Users/longt/Desktop/jquery effect/text slide/1.css",
+		"/C/Users/longt/Desktop/Thư mục mới/typed.js-master/index.html",
+		"/C/Users/longt/Desktop/Thư mục mới/Mouse-aware-Element-Scroller-Plugin-jQuery-Infinite-Scroller/src/infinite-scroller.js",
+		"/C/Users/longt/Desktop/Fancy box/jquery.fancybox-1.3.4/index.html",
+		"/C/Users/longt/Desktop/html-css/jquery test 3/1.html",
+		"/C/Users/longt/Desktop/html-css/jquery test 3/1.css",
+		"/C/Users/longt/Desktop/html-css/jquery test 3/1.js",
+		"/C/Users/longt/Desktop/Fancy box/jquery.fancybox-1.3.4/jquery-1.4.3.min.js",
+		"/C/Users/longt/Desktop/html-css/fancy box/1.html",
+		"/C/Users/longt/Desktop/html-css/fancy box/1.js",
+		"/C/Users/longt/Desktop/html-css/fancy box/1.css",
+		"/C/Users/longt/Desktop/html-css/jquery test2/1.js",
+		"/C/Users/longt/Desktop/html-css/jquery test2/1.html",
+		"/C/Users/longt/Desktop/html-css/jquery test2/1.css",
+		"/C/Users/longt/Desktop/html-css/trees/1.html",
+		"/C/Users/longt/Desktop/html-css/trees/1.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

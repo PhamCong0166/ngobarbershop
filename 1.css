@@ -1,0 +1,581 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.body
+{
+	overflow: hidden;
+}
+.mess
+{
+	position: fixed;
+	right: 20px;
+	top: 10px;
+	z-index: 99;
+
+}
+.mess img
+{
+	height: 50px;
+	width: 50px;
+}
+.btn
+{
+	padding: 0px 4px
+}
+.col-xs-1,
+.col-sm-1,
+.col-md-1,
+.col-lg-1,
+.col-xs-2,
+.col-sm-2,
+.col-md-2,
+.col-lg-2,
+.col-xs-3,
+.col-sm-3,
+.col-md-3,
+.col-lg-3,
+.col-xs-4,
+.col-sm-4,
+.col-md-4,
+.col-lg-4,
+.col-xs-5,
+.col-sm-5,
+.col-md-5,
+.col-lg-5,
+.col-xs-6,
+.col-sm-6,
+.col-md-6,
+.col-lg-6,
+.col-xs-7,
+.col-sm-7,
+.col-md-7,
+.col-lg-7,
+.col-xs-8,
+.col-sm-8,
+.col-md-8,
+.col-lg-8,
+.col-xs-9,
+.col-sm-9,
+.col-md-9,
+.col-lg-9,
+.col-xs-10,
+.col-sm-10,
+.col-md-10,
+.col-lg-10,
+.col-xs-11,
+.col-sm-11,
+.col-md-11,
+.col-lg-11,
+.col-xs-12,
+.col-sm-12,
+.col-md-12,
+.col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+p {
+    margin: 0 0 0px;
+}
+.header {
+    background: url(http://gentlemen-barberclubs.de/css/../images/hero.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+.header .paint1 {
+    background: url(img/border.png);
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 763px;
+    border: 0px;
+    background-repeat: no-repeat;
+    background-size: 100% 70%;
+}
+.body .body1 {
+    background: url(img/bg1.png);
+    background-position: center;
+    background-repeat: repeat;
+    height: 1000px;
+    width: 100%;
+}
+
+.body .body2 {
+    background: url(img/bg22.png);
+    background-position: center;
+    background-repeat: repeat;
+    height: 1300px;
+    width: 100%;
+    background-size: 100% 100%;
+    position: relative;
+    background-attachment: fixed;
+}
+.body .body2 .paint2 {
+    background: url(img/border.png);
+    transform: rotate(180deg);
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    top: -3px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.body .body3 {
+    background: url(img/bg1.png);
+    background-position: center;
+    background-repeat: repeat;
+    height: 850px;
+    width: 100%;
+    position: relative;
+}
+
+.body .body3 .paint3 {
+    background: url(img/border.png);
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: -140px;
+    background-repeat: no-repeat;
+}
+iframe.center-block {
+    height: 400px;
+    width: 640px;
+
+}
+.body .body4 {
+    background: url(img/diachi.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    height: 1800px;
+    width: 100%;
+    background-size: 100% 100%;
+    position: relative;
+    background-attachment: fixed;
+    z-index: 2;
+}
+.body .body4::after {
+  content: "";
+  background: black;
+  opacity: 0.8;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+.body .body4 .paint4 {
+	background: url(img/border.png);
+    transform: rotate(180deg);
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    z-index: 3;
+    top: -10px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.body .body6 {
+	background: url(img/bg1.png);
+    background-position: center;
+    background-repeat: repeat;
+    height: 900px;
+    width: 100%;
+    position: relative;
+}
+
+.body .body6 .paint6 {
+    background: url(img/border.png);
+    width: 100%;
+    height: 200px;
+    z-index: 3;
+    position: absolute;
+    top: -180px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.body .body5 {
+    background: black;
+    width: 100%;
+    height: 800px;
+    position: relative;
+}
+.body5 .paint5 {
+    background: url(img/border.png);
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    top: -27px;
+    background-repeat: no-repeat;
+    transform: rotate(180deg);
+    z-index: 5;
+    background-size: 100% 100%;
+}
+.body .body7 {
+    background: url(img/bg1.png);
+    background-position: center;
+    background-repeat: repeat;
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+.body .body7 .paint7 {
+    background: url(img/border.png);
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: -140px;
+    background-repeat: no-repeat;
+}
+
+.body .body8 {
+    background: black;
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.body8 .paint8 {
+    background: url(img/border.png);
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    top: -60px;
+    background-repeat: no-repeat;
+    transform: rotate(180deg);
+}
+
+/*header tùy chỉnh*/
+.header .content img {
+    position: absolute;
+    top: 300px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content .name {
+    position: absolute;
+    top: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content .name img {
+    position: absolute;
+    top: 150px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content h2 {
+    font-weight: bold;
+    color: #ffcc66;
+    font-size: 50px;
+    font-family: 'Lemonada', cursive;
+}
+
+.header .content p {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    color: #ffcc66;
+    font-size: 30px;
+}
+
+.header .content img {
+    height: 300px;
+    width: 300px;
+}
+
+.header .content .deco img {
+    height: 20px;
+    width: 100px;
+}
+/*body1*/
+.body1 .container img
+{
+	width: 300px;
+	height: 300px;
+}
+.body1 .deco1 img
+{
+	width: 100px;
+	height: 20px;
+	transform: rotate(180deg);
+}
+.body1 .deco2 img
+{
+	width: 100px;
+	height: 20px;
+}
+.body1 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 70px;
+	 font-weight: bold;
+}
+.body1 .text-child
+{
+	 font-family: 'Dancing Script', cursive;
+	 font-size: 20px;
+	 font-style: italic;
+}
+.body1 .brush1
+{
+	position: relative;
+}
+.body1 .brush1 img
+{
+	width: 300px;
+	height: 100px;
+
+}
+.body1 .brush1 p
+{
+	position: absolute;
+	top: 35px;
+	color: white;
+	left: 42%;
+	font-size: 20px;
+	 font-family: 'Dancing Script', cursive;
+}
+/*body2*/
+.body2 .deco1 img
+{
+	width: 100px;
+	height: 20px;
+	transform: rotate(180deg);
+}
+.body2 .deco2 img
+{
+	width: 100px;
+	height: 20px;
+}
+.body2 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 70px;
+	 font-weight: bold;
+	 color: #ffcc66;
+}
+.body2 .text
+{
+	padding-top: 200px;
+}
+.tho
+{
+	padding-top: 100px;
+}
+.tho img
+{
+	width: 370px;
+}
+img.chien.center-block.img-responsive {
+    width: 450px;
+}
+/*body3-------------------------------------------------*/
+.body3 .deco1
+{
+	padding-top: 50px;
+}
+.body3 .deco1 img
+{
+	width: 100px;
+	height: 20px;
+	transform: rotate(180deg);
+}
+.body3 .deco2 img
+{
+
+	width: 100px;
+	height: 20px;
+}
+.body3 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 50px;
+	 font-weight: bold;
+	 color: black;
+}
+.body3 .sign
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 10px;
+	 color: black;
+	 font-style: italic;
+}
+/*body4*/
+.body4 .head-text
+{
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+.body4 img.deco1
+{
+	width: 100px;
+	height: 20px;
+	transform: rotate(180deg);
+}
+.body4 img.deco2
+{
+
+	width: 100px;
+	height: 20px;
+}
+.body4 .deco2 img
+{
+	width: 100px;
+	height: 20px;
+}
+.body4
+{
+	overflow: hidden;
+}
+.body4 .hinh
+{
+	padding-right: 5px;
+	padding-top: 5px;
+}
+.body4 .hinh img
+	{
+		border:1px solid white;
+	}
+.body4 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 50px;
+	 font-weight: bold;
+	 color: #ffcc66;
+}
+.body4 .hinhanh1 img
+{
+	height: 400px;
+	width: 100%;
+}
+.body4 .hinhanh2 .hinh3 img
+{
+	width: 100%;
+	height: 550px;
+}
+.body4 .hinhanh2 .hinh4 img
+{
+	height: 250px;
+	width: 100%;
+}
+.body4 .hinhanh3 .hinh3 img
+{
+	height: 400px;
+	width: 100%;
+}
+.body4 .hinhanh4 .hinh4 img
+{
+	height: 400px;
+	width: 100%;
+}
+/*body5*/
+.body5 .price
+{
+	border-radius: 5px;
+	height: 400px;
+}
+.body5 .text-mainn
+{
+	 padding-top: 120px;
+	 font-family: 'Lemonada', cursive;
+	 font-size: 50px;
+	 font-weight: bold;
+	 color:  #ffcc66;
+}
+.body5 .price-text:nth-child(1)
+{
+	padding-top: 60px;
+}
+.body5 .price-text1:nth-child(1)
+{
+	padding-top: 60px;
+}
+.body5 .price-text
+{
+	 font-family: 'Dancing Script', cursive;
+	 font-size: 20px;
+	 font-style: italic;
+	 color: white;
+	 padding-top: 15px;
+}
+.body5 .price-text1
+{
+	 font-family: 'Dancing Script', cursive;
+	 font-size: 20px;
+	 font-style: italic;
+	 color: white;
+	 padding-top: 15px;
+}
+/*body 6*/
+.body6 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 70px;
+	 font-weight: bold;
+	 color:  #ffcc66;
+	 padding-top: 90px;
+	 padding-bottom: 30px;
+}
+.body6 a
+{
+	text-decoration: none;
+	color: black;
+}
+.body6 .gel-img
+{
+	height: 250px;
+	width: 250px;
+}
+.body6 .gel-img .gel1
+{
+	height: 200px;
+}
+.body6 .gel-img img
+{
+	width:100%;
+	height: 100%;
+}
+.body6 .gel-img .gel2 
+{
+	height: 50px;
+}
+/*body7*/
+.body7
+{
+}
+/*facebook settt*/
+.fb
+{
+	padding-bottom: 100px;
+	padding-top: 200px
+}
+.fb-cmt
+{
+	width: 100%;
+	height: auto
+	padding-top:250px;
+	padding-bottom: 50px;
+}
+html#facebook {
+    padding-top: 150px;
+}
+.pluginSkinDark, .pluginSkinDark .fcb {
+    color: white;
+}

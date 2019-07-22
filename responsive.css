@@ -1,0 +1,1538 @@
+
+@media only screen and (max-width: 400px) {
+	.header .paint1 {
+    width: 100%;
+    position: absolute;
+        top: 317px;
+    height: 50px;
+}
+ .header 
+ {
+ height: 550px;
+ width: 100%;
+ padding-top: 200px;
+ padding-bottom: 200px;	
+
+ }
+ .header .content img {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content .name {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content .name img {
+    position: absolute;
+    top: 76px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content h2 {
+    font-weight: bold;
+    color: #ffcc66;
+    font-size: 15px;
+    font-family: 'Lemonada', cursive;
+}
+
+.header .content p {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    color: #ffcc66;
+    font-size: 13px;
+}
+
+.header .content img {
+    height: 150px;
+    width: 150px;
+}
+
+.header .content .deco img {
+    height: 10px;
+    width: 50px;
+}
+}
+@media only screen and (max-width: 600px) and (min-width: 401px) {
+    .header .paint1 {
+    width: 100%;
+    position: absolute;
+    top: 167px; 
+    height:50px;
+}
+ .header 
+ {
+ height: 400px;
+ width: 100%;
+ padding-top: 200px;
+ padding-bottom: 200px; 
+
+ }
+ .header .content img {
+    position: absolute;
+    top: -70px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content .name {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content .name img {
+    position: absolute;
+    top: 76px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content h2 {
+    font-weight: bold;
+    color: #ffcc66;
+    font-size: 17px;
+    font-family: 'Lemonada', cursive;
+}
+
+.header .content p {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    color: #ffcc66;
+    font-size: 15px;
+}
+
+.header .content img {
+    height: 170px;
+    width: 170px;
+}
+
+.header .content .deco img {
+    height: 10px;
+    width: 50px;
+}
+}
+@media only screen and (max-width: 800px) and (min-width: 601px) {
+        .header .paint1 {
+    width: 100%;
+    position: absolute;
+    top:254px; 
+    height: 70px;
+}
+ .header 
+ {
+ height: 500px;
+ width: 100%;
+ padding-top: 200px;
+ padding-bottom: 200px; 
+
+ }
+ .header .content img {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content .name {
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content .name img {
+    position: absolute;
+    top: 76px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content h2 {
+    font-weight: bold;
+    color: #ffcc66;
+    font-size: 20px;
+    font-family: 'Lemonada', cursive;
+}
+
+.header .content p {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    color: #ffcc66;
+    font-size: 17px;
+}
+
+.header .content img {
+    height: 200px;
+    width: 200px;
+}
+
+.header .content .deco img {
+    height: 10px;
+    width: 50px;
+}
+}
+@media only screen and (max-width: 1500px) and (min-width: 801px) {
+ .header 
+ {
+ height: auto;
+ width: 100%;
+ padding-top: 350px;
+ padding-bottom: 350px;	
+ }
+ .header .paint1 {
+    width: 100%;
+    position: absolute;
+    top: 220px; 
+}
+ .header .content img {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content .name {
+    position: absolute;
+    top: 130px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content .name img {
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .content h2 {
+    font-weight: bold;
+    color: #ffcc66;
+    font-size: 30px;
+    font-family: 'Lemonada', cursive;
+}
+
+.header .content p {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    color: #ffcc66;
+    font-size: 25px;
+}
+
+.header .content img {
+    height: 250px;
+    width: 250px;
+}
+
+.header .content .deco img {
+    height: 20px;
+    width: 80px;
+}
+}
+@media only screen and (max-width: 400px)
+{
+	.body .body1
+	{
+		 background: url(img/bg1.png);
+    background-position: center;
+    background-repeat: repeat;
+    height: 700px;
+    width: 100%;
+	}
+	.brush
+{
+	display: none;
+}
+	.body1 .container img
+{
+	width: 150px;
+	height: 150px;
+}
+.body1 .deco1 img
+{
+	width: 50px;
+	height: 20px;
+	transform: rotate(180deg);
+}
+.body1 .deco2 img
+{
+	width: 50px;
+	height: 20px;
+}
+.body1 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 17px;
+	 font-weight: bold;
+}
+.body1 .text-child
+{
+	 font-family: 'Dancing Script', cursive;
+	 font-size: 12px;
+	 font-style: italic;
+}
+.body1 .brush1 img
+{
+	width: auto;
+	height: 50px;
+
+}
+.body1  .brush1 p
+{
+	position: absolute;
+    top: 14px;
+    color: white;
+    left: 40%;
+    font-size: 11px;
+    font-family: 'Dancing Script', cursive;
+}
+}
+@media only screen and (max-width: 600px) and (min-width: 401px)
+{
+	.body .body1
+	{
+		 background: url(img/bg1.png);
+    background-position: center;
+    background-repeat: repeat;
+    height: 700px;
+    width: 100%;
+	}
+	.brush
+{
+	display: none;
+}
+	.body1 .container img
+{
+	width: 180px;
+	height: 180px;
+}
+.body1 .deco1 img
+{
+	width: 50px;
+	height: 20px;
+	transform: rotate(180deg);
+}
+.body1 .deco2 img
+{
+	width: 50px;
+	height: 20px;
+}
+.body1 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 20px;
+	 font-weight: bold;
+}
+.body1 .text-child
+{
+	 font-family: 'Dancing Script', cursive;
+	 font-size: 15px;
+	 font-style: italic;
+}
+.body1 .brush1 img
+{
+	width: auto;
+	height: 50px;
+
+}
+.body1  .brush1 p
+{
+	position: absolute;
+    top: 15px;
+    color: white;
+    left: 40%;
+    font-size: 11px;
+    font-family: 'Dancing Script', cursive;
+}
+}
+@media only screen and (max-width: 800px) and (min-width: 601px)
+{
+	.body .body1
+	{
+		 background: url(img/bg1.png);
+    background-position: center;
+    background-repeat: repeat;
+    height: 700px;
+    width: 100%;
+	}
+	.brush
+{
+	display: none;
+}
+	.body1 .container img
+{
+	width: 220px;
+	height: 220px;
+}
+.body1 .deco1 img
+{
+	width: 50px;
+	height: 10px;
+	transform: rotate(180deg);
+}
+.body1 .deco2 img
+{
+	width: 50px;
+	height: 10px;
+}
+.body1 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 23px;
+	 font-weight: bold;
+}
+.body1 .text-child
+{
+	 font-family: 'Dancing Script', cursive;
+	 font-size: 15px;
+	 font-style: italic;
+}
+.body1 .brush1 img
+{
+	width: auto;
+	height: 50px;
+
+}
+.body1  .brush1 p
+{
+	position: absolute;
+    top: 18px;
+    color: white;
+    left: 43%;
+    font-size: 11px;
+    font-family: 'Dancing Script', cursive;
+}
+}
+@media only screen and (max-width: 1200px) and (min-width: 801px)
+{
+.body .body1
+	{
+		 background: url(img/bg1.png);
+    background-position: center;
+    background-repeat: repeat;
+    height: 850px;
+    width: 100%;
+	}
+	.brush
+{
+	display: none;
+}
+	.body1 .container img
+{
+	width: 260px;
+	height: 260px;
+}
+.body1 .deco1 img
+{
+	width: 50px;
+	height: 10px;
+	transform: rotate(180deg);
+}
+.body1 .deco2 img
+{
+	width: 50px;
+	height: 10px;
+}
+.body1 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 23px;
+	 font-weight: bold;
+}
+.body1 .text-child
+{
+	 font-family: 'Dancing Script', cursive;
+	 font-size: 20px;
+	 font-style: italic;
+}
+.body1 .brush1 img
+{
+	width: auto;
+	height: 80px;
+
+}
+.body1  .brush1 p
+{
+	position: absolute;
+    top: 22px;
+    color: white;
+    left: 45%;
+    font-size: 15px;
+    font-family: 'Dancing Script', cursive;
+}
+}
+@media only screen and (max-width: 400px)
+{
+    .body .body2 {
+    height: 600px;
+    width: 100%;
+}
+
+.body .body2 .paint2 {
+    height: 50px;
+    top: -8px;
+}
+
+.body2 .deco1 img
+{
+	width: 50px;
+	height: 10px;
+	transform: rotate(180deg);
+}
+.body2 .deco2 img
+{
+	width: 50px;
+	height: 10px;
+}
+.body2 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 18px;
+	 font-weight: bold;
+	 color: #ffcc66;
+}
+.body2 .text
+{
+	padding-top: 80px;
+}
+.tho
+{
+	padding-top: 0px;
+}
+.tho img
+{
+	width: 130px;
+	padding-top: 20px;
+}
+}
+@media only screen and (max-width: 600px) and (min-width: 401px)
+{
+        .body .body2 {
+    height: 700px;
+    width: 100%;
+}
+
+.body .body2 .paint2 {
+    height: 50px;
+    top: -8px;
+}
+
+.body2 .deco1 img
+{
+	width: 50px;
+	height: 10px;
+	transform: rotate(180deg);
+}
+.body2 .deco2 img
+{
+	width: 50px;
+	height: 10px;
+}
+.body2 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 21px;
+	 font-weight: bold;
+	 color: #ffcc66;
+}
+.body2 .text
+{
+	padding-top: 80px;
+}
+.tho
+{
+	padding-top: 0px;
+}
+.tho img
+{
+	width: 200px;
+	padding-top: 20px;
+}
+}
+@media only screen and (max-width: 800px) and (min-width: 601px)
+{
+        .body .body2 {
+    height: 900px;
+    width: 100%;
+}
+
+.body .body2 .paint2 {
+    height: 50px;
+    top: -8px;
+}
+
+.body2 .deco1 img
+{
+	width: 50px;
+	height: 10px;
+	transform: rotate(180deg);
+}
+.body2 .deco2 img
+{
+	width: 50px;
+	height: 10px;
+}
+.body2 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 25px;
+	 font-weight: bold;
+	 color: #ffcc66;
+}
+.body2 .text
+{
+	padding-top: 80px;
+}
+.tho
+{
+	padding-top: 0px;
+}
+.tho img
+{
+	width: 240px;
+	padding-top: 20px;
+}
+}
+@media only screen and (max-width: 1200px) and (min-width: 601px)
+{
+        .body .body2 {
+    height: 1000px;
+    width: 100%;
+}
+
+.body .body2 .paint2 {
+    height: 50px;
+    top: -8px;
+}
+
+.body2 .deco1 img
+{
+	width: 50px;
+	height: 10px;
+	transform: rotate(180deg);
+}
+.body2 .deco2 img
+{
+	width: 50px;
+	height: 10px;
+}
+.body2 .text-main
+{
+	 font-family: 'Lemonada', cursive;
+	 font-size: 30px;
+	 font-weight: bold;
+	 color: #ffcc66;
+}
+.body2 .text
+{
+	padding-top: 80px;
+}
+.tho
+{
+	padding-top: 0px;
+}
+.tho img
+{
+	width: 280px;
+	padding-top: 20px;
+}
+}
+/*body3 responsive*/
+@media only screen and (max-width: 320px)
+{
+    .body .body3 {
+    height: 500px;
+
+}
+    .body3 .deco1
+{
+    padding-top: 50px;
+}
+.body3 .deco1 img
+{
+    width: 50px;
+    height: 10px;
+    transform: rotate(180deg);
+}
+.body3 .deco2 img
+{
+
+    width: 50px;
+    height: 10px;
+}
+.body3 .text-main
+{
+     font-family: 'Lemonada', cursive;
+     font-size: 20px;
+     font-weight: bold;
+     color: black;
+}
+.body3 .sign
+{
+     font-family: 'Lemonada', cursive;
+     font-size: 10px;
+     color: black;
+     font-style: italic;
+}
+.body3 .vid
+{
+    padding-top: 50px;
+}
+iframe.center-block {
+    height: auto;
+    width: 300px;
+}
+.body .body3 .paint3 {
+    background: url(img/border.png);
+    height: 50px;
+    position: absolute;
+    top: -48px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+}
+@media only screen and (max-width: 400px) and (min-width: 321px)
+{
+.body .body3 {
+    height: 550px;
+
+}
+    .body .body3 .deco1
+{
+    padding-top: 50px;
+}
+.body .body3 .deco1 img
+{
+    width: 50px;
+    height: 10px;
+}
+.body3 .deco2 img
+{
+
+    width: 50px;
+    height: 10px;
+}
+.body .body3 .text-main {
+    font-size: 20px;
+}
+.body3 .sign
+{
+     font-size: 12px;
+}
+.body3 .vid
+{
+    padding-top: 50px;
+}
+iframe.center-block {
+    height: auto;
+    width: 350px;
+
+}
+.body .body3 .paint3 {
+    height: 50px;
+    top: -48px;
+    width: 100%;
+    background-size: 100% 100%;
+}
+}
+@media only screen and (max-width: 600px) and (min-width: 401px)
+{
+.body .body3 {
+    height: 600px;
+
+}
+    .body .body3 .deco1
+{
+    padding-top: 50px;
+}
+.body .body3 .deco1 img
+{
+    width: 50px;
+    height: 10px;
+}
+.body3 .deco2 img
+{
+
+    width: 50px;
+    height: 10px;
+}
+.body .body3 .text-main {
+    font-size: 20px;
+}
+.body3 .sign
+{
+     font-size: 12px;
+}
+.body3 .vid
+{
+    padding-top: 50px;
+}
+iframe.center-block {
+    height: 200px;
+    width: 370px;
+
+}
+.body .body3 .paint3 {
+    height: 30px;
+    top: -30px;
+    width: 100%;
+    background-size: 100% 100%;
+}
+}
+@media only screen and (max-width: 800px) and (min-width: 601px)
+{
+.body .body3 {
+    height: 600px;
+
+}
+    .body .body3 .deco1
+{
+    padding-top: 50px;
+}
+.body .body3 .deco1 img
+{
+    width: 50px;
+    height: 10px;
+}
+.body3 .deco2 img
+{
+
+    width: 50px;
+    height: 10px;
+}
+.body .body3 .text-main {
+    font-size: 20px;
+}
+.body3 .sign
+{
+     font-size: 12px;
+}
+.body3 .vid
+{
+    padding-top: 50px;
+}
+iframe.center-block {
+    height: 200px;
+    width: 370px;
+
+}
+.body .body3 .paint3 {
+    height: 30px;
+    top: -30px;
+    width: 100%;
+    background-size: 100% 100%;
+}
+}
+@media only screen and (max-width: 1200px) and (min-width: 801px)
+{
+.body .body3 {
+    height: 800px;
+
+}
+    .body .body3 .deco1
+{
+    padding-top: 70px;
+}
+.body .body3 .deco1 img
+{
+    width: 80px;
+    height: 20px;
+}
+.body3 .deco2 img
+{
+
+    width: 80px;
+    height: 20px;
+}
+.body .body3 .text-main {
+    font-size: 25px;
+}
+.body3 .sign
+{
+     font-size: 13px;
+}
+.body3 .vid
+{
+    padding-top: 70px;
+}
+iframe.center-block {
+    height: 320px;
+    width: 400px;
+
+}
+.body .body3 .paint3 {
+    height: 50px;
+    top: -49px;
+    width: 100%;
+    background-size: 100% 100%;
+}
+/*body5 re*/
+}
+@media only screen and (max-width: 320px)
+{
+    .razor {
+    display: none;
+}
+   .body .body5
+    {
+        height: 400px;
+    }
+    .body5 .price
+{
+    height: 200px;
+}
+.body5 .text-mainn
+{
+     font-family: 'Lemonada', cursive;
+     font-size: 20px;
+     font-weight: bold;
+     padding-bottom: 10px;
+}
+.body5 .price-text:nth-child(1)
+{
+    padding-top: 10px;
+}
+.body5 .price-text1:nth-child(1)
+{
+    padding-top: 10px;
+}
+.body5 .price-text
+{
+     font-size: 10px;
+     padding-top: 5px;
+}
+.body5 .price-text1
+{
+     font-size: 10px;
+     padding-top: 5px;
+}
+.body .body5 .paint5 {
+    height: 50px;
+    top: -2px;
+}
+}
+@media only screen and (max-width: 400px) and (min-width: 321px)
+{
+    .razor {
+    display: none;
+}
+    .body .body5
+    {
+        height:550px;
+    }
+    .body5 .price
+{
+    height: 400px;
+}
+.body5 .text-mainn
+{
+     font-family: 'Lemonada', cursive;
+     font-size: 22px;
+     font-weight: bold;
+     padding-bottom: 10px;
+}
+.body5 .price-text:nth-child(1)
+{
+    padding-top: 15px;
+}
+.body5 .price-text1:nth-child(1)
+{
+    padding-top: 15px;
+}
+.body5 .price-text
+{
+     font-size: 13px;
+     padding-top: 5px;
+}
+.body5 .price-text1
+{
+     font-size: 13px;
+     padding-top: 5px;
+}
+.body .body5 .paint5 {
+    height: 50px;
+    top: -2px;
+}
+}
+@media only screen and (max-width: 600px) and (min-width: 401px)
+{
+    .razor {
+    display: none;
+}
+      .body .body5
+    {
+        height: 600px;
+    }
+    .body5 .price
+{
+    height: 400px;
+}
+.body5 .text-mainn
+{
+     font-family: 'Lemonada', cursive;
+     font-size: 25px;
+     font-weight: bold;
+     padding-bottom: 10px;
+}
+.body5 .price-text:nth-child(1)
+{
+    padding-top: 15px;
+}
+.body5 .price-text1:nth-child(1)
+{
+    padding-top: 15px;
+}
+.body5 .price-text
+{
+     font-size: 15px;
+     padding-top: 5px;
+}
+.body5 .price-text1
+{
+     font-size: 15px;
+     padding-top: 5px;
+}
+.body .body5 .paint5 {
+    height: 50px;
+    top: -2px;
+}
+}
+@media only screen and (max-width: 800px) and (min-width: 601px)
+{
+    .razor {
+    display: none;
+}
+        .body .body5
+    {
+        height: 700px;
+    }
+    .body5 .price
+{
+    height: 450px;
+}
+.body5 .text-mainn
+{
+     font-family: 'Lemonada', cursive;
+     font-size: 30px;
+     font-weight: bold;
+     padding-bottom: 10px;
+}
+.body5 .price-text:nth-child(1)
+{
+    padding-top: 17px;
+}
+.body5 .price-text1:nth-child(1)
+{
+    padding-top: 17px;
+}
+.body5 .price-text
+{
+     font-size: 17px;
+     padding-top: 8px;
+}
+.body5 .price-text1
+{
+     font-size: 17px;
+     padding-top: 8px;
+}
+.body .body5 .paint5 {
+    height: 50px;
+    top: -2px;
+}
+}
+@media only screen and (max-width: 1200px) and (min-width: 801px)
+{
+    .razor {
+    display: none;
+}
+        .body .body5
+    {
+        height: 800px;
+    }
+    .body5 .price
+{
+    height: 450px;
+}
+.body5 .text-mainn
+{
+     font-family: 'Lemonada', cursive;
+     font-size: 35px;
+     font-weight: bold;
+     padding-bottom: 10px;
+}
+.body5 .price-text:nth-child(1)
+{
+    padding-top: 20px;
+}
+.body5 .price-text1:nth-child(1)
+{
+    padding-top: 20px;
+}
+.body5 .price-text
+{
+     font-size: 20px;
+     padding-top: 5px;
+}
+.body5 .price-text1
+{
+     font-size: 20px;
+     padding-top: 5px;
+}
+.body .body5 .paint5 {
+    height: 50px;
+    top: -2px;
+}
+}
+/*body6*/
+@media only screen and (max-width: 320px)
+{
+    .body .body6 {
+    height: 800px;
+}       
+
+.body .body6 .paint6 {
+
+    height: 100px;
+    top: -94px;
+    background-size: 100% 100%;
+}
+.body6 .text-main
+{
+     font-size: 25px;
+     padding-top: 30px;
+}
+.body6 a 
+{
+    font-size: 10px;
+}
+.body6 .gel-img
+{       
+    height: 150px;
+    width: 120px;
+}
+.body6 .gel-img .gel1
+{
+    height: 80px;
+}
+.body6 .gel-img img
+{
+    width:100px;
+    height:100%;
+}
+.body6 .gel-img .gel2 
+{
+    height: 30px;
+}
+.body6 p
+{
+    font-size: 8px;
+    margin: 0 0 5px;
+}
+
+}
+@media only screen and (max-width: 400px) and (min-width: 321px)
+{
+.body .body6 {
+    height: 850px;
+}
+
+.body .body6 .paint6 {
+
+    height: 100px;
+    top: -94px;
+    background-size: 100% 100%;
+}
+.body6 .text-main
+{
+     font-size: 25px;
+     padding-top: 30px;
+}
+.body6 a 
+{
+    font-size: 10px;
+}
+.body6 .gel-img
+{       
+    height: 150px;
+    width: 120px;
+}
+.body6 .gel-img .gel1
+{
+    height: 110px;
+}
+.body6 .gel-img img
+{
+    width:100px;
+    height:100%;
+}
+.body6 .gel-img .gel2 
+{
+    height: 30px;
+}
+.body6 p
+{
+    font-size: 8px;
+    margin: 0 0 5px;
+}
+
+}
+@media only screen and (max-width: 600px) and (min-width: 401px)
+{
+.body .body6 {
+    height: 1000px;
+}
+
+.body .body6 .paint6 {
+
+    height: 100px;
+    top: -94px;
+    background-size: 100% 100%;
+}
+.body6 .text-main
+{
+     font-size: 25px;
+     padding-top: 30px;
+}
+.body6 a 
+{
+    font-size: 13px;
+}
+.body6 .gel-img
+{       
+    height: 200px;
+    width: 120px;
+}
+.body6 .gel-img .gel1
+{
+    height: 150px;
+}
+.body6 .gel-img img
+{
+    width:100px;
+    height:100%;
+}
+.body6 .gel-img .gel2 
+{
+    height: 40px;
+}
+.body6 p
+{
+    font-size: 12px;
+    margin: 0 0 5px;
+}
+
+}
+@media only screen and (max-width: 800px) and (min-width: 601px)
+{
+.body .body6 {
+    height: 1100px;
+}
+
+.body .body6 .paint6 {
+
+    height: 100px;
+    top: -94px;
+    background-size: 100% 100%;
+}
+.body6 .text-main
+{
+     font-size: 25px;
+     padding-top: 30px;
+}
+.body6 a 
+{
+    font-size: 13px;
+}
+.body6 .gel-img
+{       
+    height: 200px;
+    width: 120px;
+}
+.body6 .gel-img .gel1
+{
+    height: 150px;
+}
+.body6 .gel-img img
+{
+    width:100px;
+    height:100%;
+}
+.body6 .gel-img .gel2 
+{
+    height: 40px;
+}
+.body6 p
+{
+    font-size: 12px;
+    margin: 0 0 5px;
+}
+
+}
+@media only screen and (max-width: 991px) and (min-width: 801px)
+{
+.body .body6 {
+    height: 1400px;
+}
+
+.body .body6 .paint6 {
+
+    height: 100px;
+    top: -94px;
+    background-size: 100% 100%;
+}
+.body6 .text-main
+{
+     font-size: 25px;
+     padding-top: 30px;
+}
+.body6 a 
+{
+    font-size: 13px;
+}
+.body6 .gel-img
+{       
+    height: 300px;
+    width: 120px;
+}
+.body6 .gel-img .gel1
+{
+    height: 250px;
+}
+.body6 .gel-img img
+{
+    width:100px;
+    height:100%;
+}
+.body6 .gel-img .gel2 
+{
+    height: 50px;
+}
+.body6 p
+{
+    font-size: 12px;
+    margin: 0 0 5px;
+}
+
+}
+@media only screen and (max-width: 1200px) and (min-width: 991px)
+{
+.body .body6 {
+    height: 800px;
+}
+
+.body .body6 .paint6 {
+
+    height: 100px;
+    top: -94px;
+    background-size: 100% 100%;
+}
+.body6 .text-main
+{
+     font-size: 25px;
+     padding-top: 30px;
+}
+.body6 a 
+{
+    font-size: 13px;
+}
+.body6 .gel-img
+{       
+    height: 300px;
+    width: 120px;
+}
+.body6 .gel-img .gel1
+{
+    height: 250px;
+}
+.body6 .gel-img img
+{
+    width:100px;
+    height:100%;
+}
+.body6 .gel-img .gel2 
+{
+    height: 50px;
+}
+.body6 p
+{
+    font-size: 12px;
+    margin: 0 0 5px;
+}
+
+}
+@media only screen and (max-width: 320px)
+
+{
+    .body .body4 {
+    height: 850px;
+ 
+}
+    .body .body4 .paint4 {
+    height: 50px;
+    top: -10px;
+}
+
+    .body4 .head-text
+{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.body4 img.deco1
+{
+    width: 50px;
+    height: 10px;
+    transform: rotate(180deg);
+}
+.body4 img.deco2
+{
+
+    width: 50px;
+    height: 10px;
+}
+
+.body4 .text-main
+{
+     font-size: 22px;
+
+}
+.body4 .hinhanh1 img
+{
+    height: 200px;
+    width: 100%;
+}
+.body4 .hinhanh2 .hinh3 img
+{
+    width: 100%;
+    height: 250px;
+}
+.body4 .hinhanh2 .hinh4 img
+{
+    height: 150px;
+    width: 100%;
+}
+.body4 .hinhanh3 .hinh3 img
+{
+    height: 150px;
+    width: 100%;
+}
+.body4 .hinhanh4 .hinh4 img
+{
+    height: 150px;
+    width: 100%;
+}
+}
+@media only screen and (max-width: 400px) and (min-width: 321px)
+{
+    .body .body4 {
+    height: 950px;
+ 
+}
+      .body .body4 .paint4 {
+    height: 50px;
+    top: -10px;
+}
+      .body4 .head-text
+{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.body4 img.deco1
+{
+    width: 50px;
+    height: 10px;
+    transform: rotate(180deg);
+}
+.body4 img.deco2
+{
+
+    width: 50px;
+    height: 10px;
+}
+
+.body4 .text-main
+{
+     font-size: 22px;
+
+}
+.body4 .hinhanh1 img
+{
+    height: 230px;
+    width: 100%;
+}
+.body4 .hinhanh2 .hinh3 img
+{
+    width: 100%;
+    height: 280px;
+}
+.body4 .hinhanh2 .hinh4 img
+{
+    height: 180px;
+    width: 100%;
+}
+.body4 .hinhanh3 .hinh3 img
+{
+    height: 180px;
+    width: 100%;
+}
+.body4 .hinhanh4 .hinh4 img
+{
+    height: 180px;
+    width: 100%;
+}
+}
+@media only screen and (max-width: 800px) and (min-width: 401px)
+{
+    .body .body4 {
+    height: 1150px;
+ 
+}
+      .body .body4 .paint4 {
+    height: 50px;
+    top: -10px;
+}
+      .body4 .head-text
+{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.body4 img.deco1
+{
+    width: 50px;
+    height: 10px;
+    transform: rotate(180deg);
+}
+.body4 img.deco2
+{
+
+    width: 50px;
+    height: 10px;
+}
+
+.body4 .text-main
+{
+     font-size: 22px;
+
+}
+.body4 .hinhanh1 img
+{
+    height: 250px;
+    width: 100%;
+}
+.body4 .hinhanh2 .hinh3 img
+{
+    width: 100%;
+    height: 320px;
+}
+.body4 .hinhanh2 .hinh4 img
+{
+    height: 180px;
+    width: 100%;
+}
+.body4 .hinhanh3 .hinh3 img
+{
+    height: 210px;
+    width: 100%;
+}
+.body4 .hinhanh4 .hinh4 img
+{
+    height: 210px;
+    width: 100%;
+}
+}
+
